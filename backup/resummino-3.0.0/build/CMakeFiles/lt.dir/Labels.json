@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/afs/cern.ch/user/g/goorella/projects/resummino3.0/build/CMakeFiles/lt"
+		},
+		{
+			"file" : "/afs/cern.ch/user/g/goorella/projects/resummino3.0/build/CMakeFiles/lt.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/user/g/goorella/projects/resummino3.0/build/CMakeFiles/lt-complete.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/user/g/goorella/projects/resummino3.0/build/lt-prefix/src/lt-stamp/lt-install.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/user/g/goorella/projects/resummino3.0/build/lt-prefix/src/lt-stamp/lt-mkdir.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/user/g/goorella/projects/resummino3.0/build/lt-prefix/src/lt-stamp/lt-download.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/user/g/goorella/projects/resummino3.0/build/lt-prefix/src/lt-stamp/lt-update.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/user/g/goorella/projects/resummino3.0/build/lt-prefix/src/lt-stamp/lt-patch.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/user/g/goorella/projects/resummino3.0/build/lt-prefix/src/lt-stamp/lt-configure.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/user/g/goorella/projects/resummino3.0/build/lt-prefix/src/lt-stamp/lt-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"lt"
+		],
+		"name" : "lt"
+	}
+}
