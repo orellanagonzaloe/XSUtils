@@ -1,16 +1,23 @@
+XS Utils
+=========================
 
-Install everything:
+Code to calculate Cross-Sections of SUSY processes
+
+
+# Install everything:
 
 	source scripts/install.sh
 
 Currently it's not possible to install resummino 3.1.1 becuse an older version of boost
 Using instead the version 3.0.0 stored and compiled in backup folder
 
-In run directory, to run local:
+
+# To run local:
 
 	source run_local.sh
 
-To run on HTCondor:
+
+# To run on HTCondor:
 
 	condor_submit send_XSUtils.job
 
